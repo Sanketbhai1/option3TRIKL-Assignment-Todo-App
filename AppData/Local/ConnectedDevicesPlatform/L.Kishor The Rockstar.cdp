@@ -1,0 +1,27 @@
+﻿{
+   "AfcDatabaseSettings" : {
+      "DatabaseInstanceId" : 0,
+      "LastUpdated" : "2023-03-04T02:20:36.929"
+   },
+   "AfsActivityTypes" : [],
+   "AfsChannelUri" : "",
+   "AfsEnvironment" : "",
+   "AfsSubscriptionId" : "",
+   "AfsSubscriptionUpdateTime" : "0000-00-00T00:00:00.000",
+   "BaseRegisteredInfoHash" : "",
+   "CNCNotificationUri" : "",
+   "CNCNotificationUriExpirationTime" : "0000-00-00T00:00:00.000",
+   "CNCNotificationUriLastSynced" : "0000-00-00T00:00:00.000",
+   "DdsRegistrationExpiryTickCount" : 1279288584976,
+   "Devices" : [],
+   "FormatVersion" : 12,
+   "LastRegisteredNotificationUri" : "",
+   "LastRegisteredNotificationUriExpirationTime" : "0000-00-00T00:00:00.000",
+   "LastSyncedTime" : "0000-00-00T00:00:00.000",
+   "LogicalDeviceId" : "",
+   "NeedsToRevokeChannel" : false,
+   "NextDataEncryptionKeyRolloverTime" : "2023-03-05T10:20:37.000Z",
+   "RegisteredInfoHash" : "",
+   "RegisteredWithStrongAuth" : false,
+   "StableUserId" : "L.Kishor The Rockstar"
+}
