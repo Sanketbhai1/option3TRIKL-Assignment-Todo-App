@@ -1,0 +1,68 @@
+/* App.css */
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #333;
+}
+
+.todo-form {
+  margin-bottom: 20px;
+}
+
+.todo-form input[type="text"] {
+  padding: 5px;
+  margin-right: 10px;
+  border: 1px solid #ccc;
+}
+
+.todo-form button {
+  padding: 6px 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.todo-list {
+  list-style: none;
+  padding: 0;
+}
+
+.todo-list li {
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.todo-list li span {
+  flex-grow: 1;
+}
+
+.todo-list li button {
+  margin-left: 10px;
+  padding: 4px 8px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.todo-list li input[type="text"] {
+  flex-grow: 1;
+  padding: 5px;
+  margin-right: 10px;
+  border: 1px solid #ccc;
+}
+
+/* Style the 'Edit' and 'Save' buttons differently */
+.todo-list li button.edit-button {
+  background-color: #ffc107;
+}
+
+.todo-list li button.save-button {
+  background-color: #28a745;
+}
+
